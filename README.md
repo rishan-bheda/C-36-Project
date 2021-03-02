@@ -1,1 +1,2 @@
-# C-36-Project
+# synchronousBallMovement
+Ball moving synchronously
